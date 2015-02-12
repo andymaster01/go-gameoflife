@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "c:\\mrivera\\osrepos\\gogameoflife"
+		}
+	],
+     "build_systems":
+    [
+        {
+            "name": "Go",
+            "shell_cmd": "go run test.go"
+        }
+    ]
+}
