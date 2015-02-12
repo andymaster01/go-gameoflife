@@ -3,7 +3,7 @@
 	[
 		{
 			"follow_symlinks": true,
-			"path": "c:\\mrivera\\osrepos\\gogameoflife"
+			"path": "."
 		}
 	],
      "build_systems":
